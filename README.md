@@ -1,1 +1,1 @@
-# JS_Challenge_Paper_Scissors_Rock
+Challenge to perform the classic rock-paper-scissors game using JS
